@@ -1,30 +1,66 @@
 {
-    "episodes": [
+    "stock": [
       {
-        "id": "a-importancia-da-contribuicao-em-open-source",      
-        "title": "Faladev #30 | A importância da contribuição em Open Source",
-        "members": "Diego Fernandes, João Pedro, Diego Haz e Bruno Lemos",
-        "published_at": "2021-01-22 16:35:40",
-        "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
-        "description": "<p>Nesse episódio do Faladev, Diego Fernandes se reúne com João Pedro Schmitz, Bruno Lemos e Diego Haz, para discutir sobre a importância da contribuição open source e quais desafios circulam na comunidade.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.</p>",
-        "file": {
-          "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.m4a",
-          "type": "audio/x-m4a",
-          "duration": 3981
-        }
+        "id": 1,
+        "amount": 3
       },
       {
-        "id": "uma-conversa-sobre-programacao-funcional-e-orientacao-a-objetos",      
-        "title": "Faladev #29 | Duas perspectivas diferentes na mesa: uma conversa sobre PF e OOP",
-        "members": "Diego Fernandes, Dani Leão, Laura Beatris e Rafael Camarda",
-        "published_at": "2021-01-15 13:00:00",
-        "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/funcional.jpg",
-        "description": "<p>Diego e Dani receberam Laura Beatris e Rafael Camarda na mesa do Faladev para conversarem sobre programação funcional e programação orientada a objetos.</p><p>Análises de mercado, conceitos na prática e desafios na adoção de qualquer método de desenvolvimento. Tudo isso numa conversa dinâmica e relevante para nosso público.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.</p>\n",
-        "file": {
-          "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/funcional.m4a",
-          "type": "audio/x-m4a",
-          "duration": 4237
-        }
+        "id": 2,
+        "amount": 5
+      },
+      {
+        "id": 3,
+        "amount": 2
+      },
+      {
+        "id": 4,
+        "amount": 1
+      },
+      {
+        "id": 5,
+        "amount": 5
+      },
+      {
+        "id": 6,
+        "amount": 10
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Tênis de Caminhada Leve Confortável",
+        "price": 179.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+        "price": 139.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Tênis Adidas Duramo Lite 2.0",
+        "price": 219.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+        "price": 139.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Tênis Adidas Duramo Lite 2.0",
+        "price": 219.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Tênis de Caminhada Leve Confortável",
+        "price": 179.9,
+        "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
       }
     ]
   }
